@@ -67,9 +67,11 @@ No database.
 Just clean frontend logic.
 
 🛠️ Tech Stack
-Technology   
-⚛️ React.js   
-🎨 Tailwind CSS   
-🌍 Context API   
-💾 LocalStorage   
+Technology  
+⚛️ React.js  
+🎨 Tailwind CSS  
+🌍 Context API  
+💾 LocalStorage  
 🔐 Role-based Routing
+
+![alt text](image.png)
