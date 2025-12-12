@@ -74,4 +74,4 @@ Technology
 💾 LocalStorage  
 🔐 Role-based Routing
 
-![alt text](image.png)
+![alt text](./src/assets/image.png)
