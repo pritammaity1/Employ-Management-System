@@ -1,6 +1,7 @@
 <div align="center">
 
 <h2><b>Employee Management System</b></h2>
+
 ![alt text](./src/assets/image.png)
 
 A modern, clean, and highly interactive task management dashboard for Admins & Employees.
