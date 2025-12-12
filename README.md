@@ -1,8 +1,9 @@
+<div align="center">
+
 🌟 Employee Management System
+![alt text](./src/assets/image.png)
 
 A modern, clean, and highly interactive task management dashboard for Admins & Employees.
-
-<div align="center">
 
 ✨ Built with React, Context API, TailwindCSS & LocalStorage ✨
 
