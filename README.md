@@ -75,5 +75,3 @@ Technology
 🌍 Context API  
 💾 LocalStorage  
 🔐 Role-based Routing
-
-![alt text](./src/assets/image.png)
