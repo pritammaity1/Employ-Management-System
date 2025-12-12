@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+/* * {
+  color: #fff;
+} */
+/* body {
+  margin: 0;
+  background-color: #020817;
+} */
+/* #tasklist::-webkit-scrollbar {
+  display: none;
+} */
+
+/* Make html/body/root full height so background fills the screen */
+/* html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+} */
+
+/* SINGLE global background color for the whole app */
+/* body {
+  background-color: #020817;
+} */
+/* choose this or any one dark color and keep it */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-color: #020617;
+  color: #e5e7eb; /* slate-200/300 */
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
